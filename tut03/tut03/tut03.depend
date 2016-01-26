@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1444968770 source:/home/star/tut/openGL/tut03/tut03/code01.cpp
+	<stdlib.h>
+	<GL/glut.h>
+
+1444902450 source:/home/star/tut/openGL/tut03/tut03/code02.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glew.h>
+	<GL/glfw.h>
+
+1444968258 source:/home/star/tut/openGL/tut03/tut03/code04.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glew.h>
+	<GL/glfw.h>
+	<glm/glm.hpp>
+
+1444905140 source:/home/star/tut/openGL/tut03/tut03/code03.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glew.h>
+	<GL/glfw.h>
+	<glm/glm.hpp>
+
+1444986796 source:/home/star/tut/openGL/tut03/tut03/code05.cpp
+	<stdlib.h>
+	<GL/glut.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446535180 source:/home/star/tut/openGL/OpenGLChapter3/main.cpp
+	"general.h"
+
+1446533256 /home/star/tut/openGL/OpenGLChapter3/general.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
